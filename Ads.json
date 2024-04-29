@@ -7,26 +7,26 @@
     "priorityInterstitial":"admob",
     "PriorityNative":"admob",
     "PriorityReward":"admob",
-    "IronAppKey":"85460dcd",
+    "IronAppKey":"",
     "IronBanner":"DefaultBanner",
     "IronInterstitial":"DefaultInterstitial",
     "IronReward":"DefaultReward",
     "MaxBanner":"xxxxxxxx",
     "MaxInterstitial":"xxxxxxxx",
-    "MaxNative":"5534d47212ed8e80",
+    "MaxNative":"",
     "MaxReward":"",
     "FanBanner":"",
     "FanInterstitial":"",
     "FanNative":"",
-    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobBanner":"ca-app-pub-3940256099942544/9214589741",
     "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
     "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
     "admob_reward":"ca-app-pub-3940256099942544/5224354917"
   },
   "ControlApp":{
- "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
- "app_redirect":"yes",
-"redirect_package_name":"com.example.test"
+ "PlayerPackageName": "",
+ "app_redirect":"no",
+"redirect_package_name":""
     
     }
 
